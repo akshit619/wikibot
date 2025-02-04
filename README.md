@@ -1,6 +1,6 @@
 # Wikipedia RAG-Bot 🤖
 
-A Streamlit-based question-answering chatbot that uses RAG (Retrieval-Augmented Generation) to answer queries about Wikipedia articles. The bot retrieves relevant information from Wikipedia articles and provides concise, accurate answers using OpenAI's GPT-4o-mini model.
+A LangChain-based question-answering chatbot that uses RAG (Retrieval-Augmented Generation) to answer queries about Wikipedia articles. The bot retrieves relevant information from Wikipedia articles and provides concise, accurate answers using OpenAI's GPT-4o-mini model.
 
 ## Features
 
