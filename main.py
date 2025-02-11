@@ -50,7 +50,6 @@ if user_input_topic:
     # Index chunks
     _ = vector_store.add_documents(documents=all_splits)
 
-    # Rest of the code remains the same...
     graph_builder = StateGraph(MessagesState)
 
     @tool(response_format="content_and_artifact")
